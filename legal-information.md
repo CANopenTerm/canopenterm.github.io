@@ -72,5 +72,5 @@ umgesetzt.  Diese gelten für alle weltweiten Aktivitäten, bei denen
 GitHub personenbezogene Daten von natürlichen Personen in der EU
 verarbeitet.  Diese Maßnahmen basieren auf den
 EU-Standardvertragsklauseln (SCCs).  Weitere Informationen finden Sie
-unter:  <a [GitHub Data Protection
+unter:  [GitHub Data Protection
 Agreement](https://docs.github.com/en/site-policy/privacy-policies/github-data-protection-agreement).
