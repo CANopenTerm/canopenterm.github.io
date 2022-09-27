@@ -14,6 +14,11 @@ entering `h`.
 
 ## Compiling
 
+First clone the repository:
+```bash
+git clone https://github.com/CANopenTerm/CANopenTerm.git
+```
+
 ### Windows
 
 The easiest way to get CANopenTerm up and running is Visual Studio 2022
