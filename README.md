@@ -22,10 +22,6 @@ A versatile software tool to analyse and configure CANopen devices.
 
 - Can be used without limitations under Windows as well on Linux.
 
-## Documentation
-
-The documentation can be found [here](https://canopenterm.github.io).
-
 ## License and Credits
 
 This project is licensed under the "The MIT License".  See the file
