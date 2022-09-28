@@ -5,4 +5,4 @@
   - [Lua API](lua-api.md)
   - [License](LICENSE.md)
   - [Legal information](legal-information.md)
-  - [Our GitHub site](https://github.com/CANopenTerm)
+  - [Visit us on GitHub](https://github.com/CANopenTerm)
