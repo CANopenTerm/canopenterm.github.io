@@ -1,4 +1,4 @@
-- [CANopenTerm](README.md)
+- [CANopenTerm](/)
 
   - [Download](https://github.com/CANopenTerm/CANopenTerm/releases)
   - [Getting started](getting-started.md)
