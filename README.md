@@ -21,8 +21,3 @@ A versatile software tool to analyse and configure CANopen devices.
 - Optional graphical user interface.
 
 - Can be used without limitations under Windows as well on Linux.
-
-## License and Credits
-
-This project is licensed under the "The MIT License".  See the file
-[LICENSE.md](LICENSE.md) for details.
