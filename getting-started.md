@@ -4,7 +4,8 @@
 
 Currently, only USB-based CAN dongles from [PEAK-System Technik
 GmbH](https://www.peak-system.com/Products.57.0.html?L=1) are supported.
-An abstraction for other manufacturers is being considered.
+An abstraction for other manufacturers is being considered and SocketCAN
+support for Linux is in the works.
 
 ## Command-line interface
 
