@@ -2,11 +2,11 @@
 
 Verantwortlich für den Inhalt dieser Website ist (gemäß § 5 TMG):
 
-Michael Fitzmayer  
-Breslauer Str. 3/2  
-71711 Steinheim an der Murr  
-**Tel**.: +49 (0) 176 / 926 30 451  
-**E-Mail**: mail at michael minus fitzmayer punkt de ([PGP Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x2D6159AF6F65F9E1))
+> Michael Fitzmayer  
+> Breslauer Str. 3/2  
+> 71711 Steinheim an der Murr  
+> **Tel**.: +49 (0) 176 / 926 30 451  
+> **E-Mail**: mail at michael minus fitzmayer punkt de ([PGP Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x2D6159AF6F65F9E1))
 
 Die Nutzung obiger Daten zum Zwecke der Werbung, statistischer Erhebung
 oder generell gewerbsmäßig ausgerichteter Tätigkeit ist untersagt.
@@ -43,10 +43,10 @@ ich nicht mit anderen Daten zusammen.
 Ich setze für die Zurverfügungstellung meiner Website folgenden
 Hoster ein:
 
-GitHub Inc.  
-88 Colin P Kelly Jr St  
-San Francisco, CA 94107  
-United States
+> GitHub Inc.  
+> 88 Colin P Kelly Jr St  
+> San Francisco, CA 94107  
+> United States
 
 Dieser ist Empfänger Ihrer personenbezogenen Daten.  Dies entspricht
 meinem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f
