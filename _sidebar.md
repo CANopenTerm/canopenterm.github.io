@@ -1,3 +1,4 @@
+- [About](/)
 - [Getting started](getting-started.md)
 - [Lua API](lua-api.md)
 - [Our GitHub site](https://github.com/CANopenTerm)
