@@ -1,5 +1,7 @@
 # Legal information
 
+## Impressum
+
 Verantwortlich für den Inhalt dieser Website ist (gemäß § 5 TMG):
 
 > Michael Fitzmayer  
