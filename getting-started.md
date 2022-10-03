@@ -7,16 +7,18 @@ GmbH](https://www.peak-system.com/Products.57.0.html?L=1) are supported.
 An abstraction for other manufacturers is being considered and SocketCAN
 support for Linux is in the works.
 
-## Command-line interface
-
-CANopenTerm is an interactive terminal which can be used via a number of
-commands. You can get a detailed overview of all available command by
-entering `h`.
-
 ## Download
 
 A pre-compiled Windows version of CANopenTerm can be found on the
 [Releases page on GitHub](https://github.com/CANopenTerm/CANopenTerm/releases).
+
+## Usage
+
+### Command-line interface
+
+CANopenTerm is an interactive terminal which can be used via a number of
+commands. You can get a detailed overview of all available command by
+entering `h`.
 
 ## Compiling
 
