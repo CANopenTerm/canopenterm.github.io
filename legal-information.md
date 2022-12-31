@@ -5,8 +5,8 @@
 Verantwortlich für den Inhalt dieser Website ist (gemäß § 5 TMG):
 
 > Michael Fitzmayer  
-> Breslauer Str. 3/2  
-> 71711 Steinheim an der Murr  
+> Ruitstr. 25  
+> 71691 Freiberg am Neckar  
 > **Tel**.: +49 (0) 176 / 926 30 451  
 > **E-Mail**: mail at michael minus fitzmayer punkt de ([PGP Public Key](https://pgp.mit.edu/pks/lookup?op=get&search=0x2D6159AF6F65F9E1))
 
